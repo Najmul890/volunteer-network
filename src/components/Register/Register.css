@@ -1,0 +1,13 @@
+.reg input{
+    width: 300px;
+    padding: 5px 15px;
+}
+.reg span{
+    color:red
+}
+.reg form{
+    margin-top: 20px;
+}
+.reg .submit{
+    border:none
+}
